@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🕹️futuro desenvolvedor de jogos<br>🎼intusiasta da música <br>🎲jogo rpg<br>⚙️ maior entendedor de metalgear</p>
+<p align="left">🕹️futuro desenvolvedor de jogos<br>🎼apreciador da música <br>🎲jogo rpg<br>⚙️ maior entendedor de metal gear</p>
 
 ###
 
